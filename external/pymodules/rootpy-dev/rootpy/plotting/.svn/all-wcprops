@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/plotting
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/plotting/__init__.py
+END
+profile.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/plotting/profile.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/plotting/utils.py
+END
+graph.py
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/plotting/graph.py
+END
+shapes.py
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/plotting/shapes.py
+END
+text.py
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/plotting/text.py
+END
+hist.py
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/plotting/hist.py
+END
+box.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/plotting/box.py
+END
+core.py
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/plotting/core.py
+END
+canvas.py
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/plotting/canvas.py
+END
+root2matplotlib.py
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/plotting/root2matplotlib.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/plotting/views.py
+END
+autobinning.py
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/plotting/autobinning.py
+END
+legend.py
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/plotting/legend.py
+END

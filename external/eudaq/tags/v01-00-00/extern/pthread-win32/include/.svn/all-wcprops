@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1195/tags/v01-00-00/extern/pthread-win32/include
+END
+semaphore.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1195/tags/v01-00-00/extern/pthread-win32/include/semaphore.h
+END
+sched.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1195/tags/v01-00-00/extern/pthread-win32/include/sched.h
+END
+pthread.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1195/tags/v01-00-00/extern/pthread-win32/include/pthread.h
+END

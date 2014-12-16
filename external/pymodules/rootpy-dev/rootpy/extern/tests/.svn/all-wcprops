@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/extern/tests
+END
+test_module_facade.py
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/extern/tests/test_module_facade.py
+END
+facade_example.py
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/extern/tests/facade_example.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/extern/tests/__init__.py
+END

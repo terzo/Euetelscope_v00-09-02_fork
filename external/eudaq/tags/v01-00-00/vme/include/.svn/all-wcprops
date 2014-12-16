@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1195/tags/v01-00-00/vme/include
+END
+TSI148Interface.hh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1195/tags/v01-00-00/vme/include/TSI148Interface.hh
+END
+vmelib.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1195/tags/v01-00-00/vme/include/vmelib.h
+END
+OldVMEInterface.hh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1195/tags/v01-00-00/vme/include/OldVMEInterface.hh
+END
+VMEInterface.hh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1195/tags/v01-00-00/vme/include/VMEInterface.hh
+END

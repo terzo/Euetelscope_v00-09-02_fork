@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/simonspa/CMSPixelDecoder/!svn/ver/78/trunk
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/simonspa/CMSPixelDecoder/!svn/ver/78/trunk/README.md
+END
+stat_tool.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/simonspa/CMSPixelDecoder/!svn/ver/75/trunk/stat_tool.cc
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/simonspa/CMSPixelDecoder/!svn/ver/72/trunk/CMakeLists.txt
+END
+CMSPixelDecoder.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/simonspa/CMSPixelDecoder/!svn/ver/76/trunk/CMSPixelDecoder.cc
+END
+CMSPixelDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/simonspa/CMSPixelDecoder/!svn/ver/76/trunk/CMSPixelDecoder.h
+END
+d2h.cc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/simonspa/CMSPixelDecoder/!svn/ver/73/trunk/d2h.cc
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/simonspa/CMSPixelDecoder/!svn/ver/76/trunk/LICENSE
+END
+mc_background.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/simonspa/CMSPixelDecoder/!svn/ver/58/trunk/mc_background.cc
+END
+tentative_dec.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/simonspa/CMSPixelDecoder/!svn/ver/75/trunk/tentative_dec.cc
+END
+d2h.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/simonspa/CMSPixelDecoder/!svn/ver/58/trunk/d2h.h
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/simonspa/CMSPixelDecoder/!svn/ver/58/trunk/.gitignore
+END
+unit_tests.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/simonspa/CMSPixelDecoder/!svn/ver/73/trunk/unit_tests.cc
+END

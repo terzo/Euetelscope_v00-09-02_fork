@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 48
+$Outdir
+*.ncb
+*.user
+Debug
+Release
+libeudaq.suo
+
+K 15
+tsvn:logminsize
+V 1
+5
+END

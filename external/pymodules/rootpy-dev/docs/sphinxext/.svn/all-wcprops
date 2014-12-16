@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/docs/sphinxext
+END
+gen_rst.py
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/docs/sphinxext/gen_rst.py
+END
+ipython_console_highlighting.py
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/docs/sphinxext/ipython_console_highlighting.py
+END
+ipython_directive.py
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/docs/sphinxext/ipython_directive.py
+END

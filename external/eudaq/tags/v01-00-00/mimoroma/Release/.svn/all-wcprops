@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1195/tags/v01-00-00/mimoroma/Release
+END
+adc.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1195/tags/v01-00-00/mimoroma/Release/adc.cfg
+END
+sources.mk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1195/tags/v01-00-00/mimoroma/Release/sources.mk
+END
+fpga.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1195/tags/v01-00-00/mimoroma/Release/fpga.cfg
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1195/tags/v01-00-00/mimoroma/Release/makefile
+END
+objects.mk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1195/tags/v01-00-00/mimoroma/Release/objects.mk
+END

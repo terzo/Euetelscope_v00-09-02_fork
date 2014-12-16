@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/src/Sparse
+END
+CoreIterators.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/src/Sparse/CoreIterators.h
+END
+DynamicSparseMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/src/Sparse/DynamicSparseMatrix.h
+END
+SparseCwise.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/src/Sparse/SparseCwise.h
+END
+CompressedStorage.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/src/Sparse/CompressedStorage.h
+END
+AmbiVector.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/src/Sparse/AmbiVector.h
+END
+SparseUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/src/Sparse/SparseUtil.h
+END
+SparseCwiseBinaryOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/src/Sparse/SparseCwiseBinaryOp.h
+END
+SparseTranspose.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/src/Sparse/SparseTranspose.h
+END
+SuperLUSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/src/Sparse/SuperLUSupport.h
+END
+SparseDiagonalProduct.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/src/Sparse/SparseDiagonalProduct.h
+END
+SparseLU.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/src/Sparse/SparseLU.h
+END
+SparseProduct.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/src/Sparse/SparseProduct.h
+END
+SparseAssign.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/src/Sparse/SparseAssign.h
+END
+TriangularSolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/src/Sparse/TriangularSolver.h
+END
+SparseDot.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/src/Sparse/SparseDot.h
+END
+SparseFuzzy.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/src/Sparse/SparseFuzzy.h
+END
+SparseRedux.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/src/Sparse/SparseRedux.h
+END
+SparseCwiseUnaryOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/src/Sparse/SparseCwiseUnaryOp.h
+END
+SparseFlagged.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/src/Sparse/SparseFlagged.h
+END
+RandomSetter.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/src/Sparse/RandomSetter.h
+END
+SparseBlock.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/src/Sparse/SparseBlock.h
+END
+MappedSparseMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/src/Sparse/MappedSparseMatrix.h
+END
+SparseLLT.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/src/Sparse/SparseLLT.h
+END
+TaucsSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/src/Sparse/TaucsSupport.h
+END
+SparseLDLT.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/src/Sparse/SparseLDLT.h
+END
+SparseMatrixBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/src/Sparse/SparseMatrixBase.h
+END
+SparseVector.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/src/Sparse/SparseVector.h
+END
+CholmodSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/src/Sparse/CholmodSupport.h
+END
+SparseMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/src/Sparse/SparseMatrix.h
+END
+UmfPackSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/src/Sparse/UmfPackSupport.h
+END

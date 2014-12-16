@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq
+END
+FileNamer.hh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/FileNamer.hh
+END
+BufferSerializer.hh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/BufferSerializer.hh
+END
+CommandReceiver.hh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/CommandReceiver.hh
+END
+EUDRBEvent.hh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/EUDRBEvent.hh
+END
+RunControl.hh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/RunControl.hh
+END
+USBpix_i4.hh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/USBpix_i4.hh
+END
+StringEvent.hh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/StringEvent.hh
+END
+FileSerializer.hh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/FileSerializer.hh
+END
+DEPFETEvent.hh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/DEPFETEvent.hh
+END
+Documentation.hh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/Documentation.hh
+END
+Serializer.hh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/Serializer.hh
+END
+Logger.hh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/Logger.hh
+END
+DataCollector.hh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/DataCollector.hh
+END
+Timer.hh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/Timer.hh
+END
+Producer.hh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/Producer.hh
+END
+Status.hh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/Status.hh
+END
+counted_ptr.hh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/counted_ptr.hh
+END
+TransportBase.hh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/TransportBase.hh
+END
+LogCollector.hh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/LogCollector.hh
+END
+PluginManager.hh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/PluginManager.hh
+END
+TransportClient.hh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/TransportClient.hh
+END
+Info.hh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/Info.hh
+END
+TransportTCP_WIN32.inc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/TransportTCP_WIN32.inc
+END
+TransportTCP_POSIX.inc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/TransportTCP_POSIX.inc
+END
+TimepixDummyProducer.hh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/TimepixDummyProducer.hh
+END
+DummyProducer.hh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/DummyProducer.hh
+END
+Utils.hh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/Utils.hh
+END
+StandardEvent.hh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/StandardEvent.hh
+END
+FileReader.hh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/FileReader.hh
+END
+Guard.hh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/Guard.hh
+END
+Mutex.hh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/Mutex.hh
+END
+TransportTCP.hh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/TransportTCP.hh
+END
+Clusters.hh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/Clusters.hh
+END
+USBpix_i3.hh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/USBpix_i3.hh
+END
+TLUEvent.hh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/TLUEvent.hh
+END
+Serializable.hh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/Serializable.hh
+END
+Configuration.hh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/Configuration.hh
+END
+USBpix_i4B.hh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/USBpix_i4B.hh
+END
+ExampleHardware.hh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/ExampleHardware.hh
+END
+DataSender.hh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/DataSender.hh
+END
+DetectorEvent.hh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/DetectorEvent.hh
+END
+FileWriter.hh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/FileWriter.hh
+END
+DataConverterPlugin.hh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/DataConverterPlugin.hh
+END
+Event.hh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/Event.hh
+END
+LogSender.hh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/LogSender.hh
+END
+TransportServer.hh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/TransportServer.hh
+END
+TransportFactory.hh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/TransportFactory.hh
+END
+Platform.hh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/Platform.hh
+END
+OptionParser.hh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/OptionParser.hh
+END
+RawDataEvent.hh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/RawDataEvent.hh
+END
+LogMessage.hh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/LogMessage.hh
+END
+Monitor.hh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/Monitor.hh
+END
+TransportNULL.hh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/TransportNULL.hh
+END
+Exception.hh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/Exception.hh
+END
+Time.hh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1195/tags/v01-00-00/main/include/eudaq/Time.hh
+END

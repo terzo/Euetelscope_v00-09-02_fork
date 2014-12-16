@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy
+END
+info.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/info.py
+END
+root2hdf5.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/root2hdf5.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/__init__.py
+END
+root_collections.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/root_collections.py
+END
+stl.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/stl.py
+END
+ROOT.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/ROOT.py
+END
+context.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/context.py
+END
+decorators.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/decorators.py
+END
+defaults.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/defaults.py
+END
+core.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/core.py
+END
+userdata.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/userdata.py
+END
+objectproxy.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/objectproxy.py
+END

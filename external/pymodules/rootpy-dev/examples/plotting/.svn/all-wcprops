@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/examples/plotting
+END
+plot_style.py
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/examples/plotting/plot_style.py
+END
+plot_matplotlib_hist2d.py
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/examples/plotting/plot_matplotlib_hist2d.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/examples/plotting/README.txt
+END
+plot_hist.py
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/examples/plotting/plot_hist.py
+END
+plot_matplotlib_graph.py
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/examples/plotting/plot_matplotlib_graph.py
+END
+plot_autobinning.py
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/examples/plotting/plot_autobinning.py
+END
+plot_matplotlib_hist.py
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/examples/plotting/plot_matplotlib_hist.py
+END

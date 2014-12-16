@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1195/tags/v01-00-00/pixelmanproducer/PixelmanProducerMFC
+END
+CEditExtended.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1195/tags/v01-00-00/pixelmanproducer/PixelmanProducerMFC/CEditExtended.h
+END
+TimePixDAQStatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1195/tags/v01-00-00/pixelmanproducer/PixelmanProducerMFC/TimePixDAQStatus.h
+END
+TimepixProducer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1195/tags/v01-00-00/pixelmanproducer/PixelmanProducerMFC/TimepixProducer.cpp
+END
+medipixChipId.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1195/tags/v01-00-00/pixelmanproducer/PixelmanProducerMFC/medipixChipId.h
+END
+TimePixBore.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1195/tags/v01-00-00/pixelmanproducer/PixelmanProducerMFC/TimePixBore.cpp
+END
+TimepixProducer.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1195/tags/v01-00-00/pixelmanproducer/PixelmanProducerMFC/TimepixProducer.h
+END
+PixelmanProducerMFC.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1195/tags/v01-00-00/pixelmanproducer/PixelmanProducerMFC/PixelmanProducerMFC.vcproj
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1195/tags/v01-00-00/pixelmanproducer/PixelmanProducerMFC/stdafx.cpp
+END
+PixelmanProducerMFC.rc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1195/tags/v01-00-00/pixelmanproducer/PixelmanProducerMFC/PixelmanProducerMFC.rc
+END
+HexEdit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1195/tags/v01-00-00/pixelmanproducer/PixelmanProducerMFC/HexEdit.cpp
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1195/tags/v01-00-00/pixelmanproducer/PixelmanProducerMFC/resource.h
+END
+TimePixBore.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1195/tags/v01-00-00/pixelmanproducer/PixelmanProducerMFC/TimePixBore.h
+END
+PixelmanProducerMFCDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1195/tags/v01-00-00/pixelmanproducer/PixelmanProducerMFC/PixelmanProducerMFCDlg.cpp
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1195/tags/v01-00-00/pixelmanproducer/PixelmanProducerMFC/stdafx.h
+END
+HexEdit.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1195/tags/v01-00-00/pixelmanproducer/PixelmanProducerMFC/HexEdit.h
+END
+PixelmanProducerPlugin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1195/tags/v01-00-00/pixelmanproducer/PixelmanProducerMFC/PixelmanProducerPlugin.cpp
+END
+PixelmanProducerMFCDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1195/tags/v01-00-00/pixelmanproducer/PixelmanProducerMFC/PixelmanProducerMFCDlg.h
+END
+PixelmanProducerMFC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1195/tags/v01-00-00/pixelmanproducer/PixelmanProducerMFC/PixelmanProducerMFC.cpp
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1195/tags/v01-00-00/pixelmanproducer/PixelmanProducerMFC/targetver.h
+END
+TimePixDAQStatus.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1195/tags/v01-00-00/pixelmanproducer/PixelmanProducerMFC/TimePixDAQStatus.cpp
+END
+CEditExtended.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1195/tags/v01-00-00/pixelmanproducer/PixelmanProducerMFC/CEditExtended.cpp
+END
+PixelmanProducerMFC.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1195/tags/v01-00-00/pixelmanproducer/PixelmanProducerMFC/PixelmanProducerMFC.h
+END

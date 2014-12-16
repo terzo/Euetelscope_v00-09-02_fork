@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen
+END
+Geometry
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/Geometry
+END
+LeastSquares
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/LeastSquares
+END
+SVD
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/SVD
+END
+Sparse
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/Sparse
+END
+StdVector
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/StdVector
+END
+Array
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/Array
+END
+Dense
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/Dense
+END
+LU
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/LU
+END
+QtAlignedMalloc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/QtAlignedMalloc
+END
+Cholesky
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/Cholesky
+END
+QR
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/QR
+END
+Eigen
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/Eigen
+END
+NewStdVector
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/NewStdVector
+END
+Core
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/Core
+END

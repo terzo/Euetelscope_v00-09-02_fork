@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1195/tags/v01-00-00/extern/ZestSC1/windows/Lib
+END
+SetupAPI.Lib
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1195/tags/v01-00-00/extern/ZestSC1/windows/Lib/SetupAPI.Lib
+END
+ZestSC1.lib
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1195/tags/v01-00-00/extern/ZestSC1/windows/Lib/ZestSC1.lib
+END
+libZestSC1.a
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1195/tags/v01-00-00/extern/ZestSC1/windows/Lib/libZestSC1.a
+END

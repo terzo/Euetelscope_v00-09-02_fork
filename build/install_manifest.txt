@@ -1,0 +1,7 @@
+/remote/pcatlas62/testbeam/ilcsoft/v01-17-03/Eutelescope/v00-09-02/lib/libeudaq.so
+/remote/pcatlas62/testbeam/ilcsoft/v01-17-03/Eutelescope/v00-09-02/lib/libGBL.so.1.15.0
+/remote/pcatlas62/testbeam/ilcsoft/v01-17-03/Eutelescope/v00-09-02/lib/libEutelescope.so.0.9.2
+/remote/pcatlas62/testbeam/ilcsoft/v01-17-03/Eutelescope/v00-09-02/lib/libEutelescope.so.0.9
+/remote/pcatlas62/testbeam/ilcsoft/v01-17-03/Eutelescope/v00-09-02/lib/libEutelescope.so
+/remote/pcatlas62/testbeam/ilcsoft/v01-17-03/Eutelescope/v00-09-02/bin/pede2lcio
+/remote/pcatlas62/testbeam/ilcsoft/v01-17-03/Eutelescope/v00-09-02/bin/pedestalmerge

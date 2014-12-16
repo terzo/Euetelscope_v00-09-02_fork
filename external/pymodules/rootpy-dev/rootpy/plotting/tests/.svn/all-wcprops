@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/plotting/tests
+END
+test_graph.py
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/plotting/tests/test_graph.py
+END
+test_plottable.py
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/plotting/tests/test_plottable.py
+END
+test_hist.py
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/plotting/tests/test_hist.py
+END
+test_legend.py
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/plotting/tests/test_legend.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/plotting/tests/__init__.py
+END
+test_profile.py
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/plotting/tests/test_profile.py
+END

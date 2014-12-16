@@ -1,0 +1,497 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1209/tags/v01-00-00/main/src
+END
+Monitor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/Monitor.cc
+END
+TransportNULL.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/TransportNULL.cc
+END
+APIX-CT-ConverterPlugin.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/APIX-CT-ConverterPlugin.cc
+END
+ClusterExtractor.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/ClusterExtractor.cxx
+END
+Exception.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/Exception.cc
+END
+TAKIConverterPlugin.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/TAKIConverterPlugin.cc
+END
+TestProducer.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/TestProducer.cxx
+END
+AltroUSBConverterPlugin.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/AltroUSBConverterPlugin.cc
+END
+FileNamer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/FileNamer.cc
+END
+CommandReceiver.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/CommandReceiver.cc
+END
+RunControl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/RunControl.cc
+END
+EUDRBConverterPlugin.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/EUDRBConverterPlugin.cc
+END
+DEPFETEvent.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/DEPFETEvent.cc
+END
+FileSerializer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/FileSerializer.cc
+END
+TimepixDummyProducer.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/TimepixDummyProducer.cxx
+END
+NIConverterPlugin.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/NIConverterPlugin.cc
+END
+USBpixI4ConverterPlugin.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/USBpixI4ConverterPlugin.cc
+END
+Logger.cc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/Logger.cc
+END
+APIX-MC-ConverterPlugin.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/APIX-MC-ConverterPlugin.cc
+END
+Producer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/Producer.cc
+END
+FileWriterLCIO.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/FileWriterLCIO.cc
+END
+Status.cc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/Status.cc
+END
+RunListener.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/RunListener.cxx
+END
+TransportBase.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/TransportBase.cc
+END
+APIX-SC-ConverterPlugin.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/APIX-SC-ConverterPlugin.cc
+END
+LogCollector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/LogCollector.cc
+END
+FileWriterMimoloop.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/FileWriterMimoloop.cc
+END
+PluginManager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/PluginManager.cc
+END
+TransportClient.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/TransportClient.cc
+END
+MVDConverterPlugin.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/MVDConverterPlugin.cc
+END
+RawCheck.cxx.bak
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/RawCheck.cxx.bak
+END
+OptionExample.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/OptionExample.cxx
+END
+StandardEvent.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/StandardEvent.cc
+END
+TestLogCollector.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/TestLogCollector.cxx
+END
+TLUEvent.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/TLUEvent.cc
+END
+Serializable.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/Serializable.cc
+END
+FileWriterNull.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/FileWriterNull.cc
+END
+Configuration.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/Configuration.cc
+END
+ExampleHardware.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/ExampleHardware.cc
+END
+DataSender.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/DataSender.cc
+END
+TLUConverterPlugin.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/TLUConverterPlugin.cc
+END
+DetectorEvent.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/DetectorEvent.cc
+END
+ExampleProducer.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/ExampleProducer.cxx
+END
+FORTISConverterPlugin.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/FORTISConverterPlugin.cc
+END
+TestReader.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/TestReader.cxx
+END
+DataConverterPlugin.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/DataConverterPlugin.cc
+END
+FileWriterText.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/FileWriterText.cc
+END
+Event.cc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/Event.cc
+END
+TestRunControl.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/TestRunControl.cxx
+END
+TransportServer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/TransportServer.cc
+END
+OptionParser.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/OptionParser.cc
+END
+RawDataEvent.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/RawDataEvent.cc
+END
+TestConverterPlugin.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/TestConverterPlugin.cc
+END
+FileWriterStandard.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/FileWriterStandard.cc
+END
+Time.cc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/Time.cc
+END
+EUDRBEvent.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/EUDRBEvent.cc
+END
+BufferSerializer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/BufferSerializer.cc
+END
+StringEvent.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/StringEvent.cc
+END
+MagicLogBook.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/MagicLogBook.cxx
+END
+DEPFETConverterPlugin.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/DEPFETConverterPlugin.cc
+END
+DataCollector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/DataCollector.cc
+END
+USBpixI4BConverterPlugin.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1209/tags/v01-00-00/main/src/USBpixI4BConverterPlugin.cc
+END
+Converter.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/Converter.cxx
+END
+IPHCConverter.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/IPHCConverter.cxx
+END
+ExampleReader.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/ExampleReader.cxx
+END
+TestDataCollector.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/TestDataCollector.cxx
+END
+DummyProducer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/DummyProducer.cc
+END
+Utils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/Utils.cc
+END
+ExampleConverterPlugin.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/ExampleConverterPlugin.cc
+END
+FileReader.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/FileReader.cc
+END
+Mutex.cc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/Mutex.cc
+END
+TransportTCP.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/TransportTCP.cc
+END
+TestMonitor.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/TestMonitor.cxx
+END
+FileWriterNative2.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/FileWriterNative2.cc
+END
+FileWriter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/FileWriter.cc
+END
+FileWriterRoot.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/FileWriterRoot.cc
+END
+USBpixConverterPlugin.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/USBpixConverterPlugin.cc
+END
+LogSender.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/LogSender.cc
+END
+FileWriterNative.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/FileWriterNative.cc
+END
+TransportFactory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/TransportFactory.cc
+END
+TimepixConverterPlugin.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1203/tags/v01-00-00/main/src/TimepixConverterPlugin.cc
+END
+LogMessage.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1195/tags/v01-00-00/main/src/LogMessage.cc
+END

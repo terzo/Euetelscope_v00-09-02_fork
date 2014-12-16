@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/src/QR
+END
+EigenSolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/src/QR/EigenSolver.h
+END
+HessenbergDecomposition.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/src/QR/HessenbergDecomposition.h
+END
+QR.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/src/QR/QR.h
+END
+SelfAdjointEigenSolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/src/QR/SelfAdjointEigenSolver.h
+END
+Tridiagonalization.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/Eigen/src/QR/Tridiagonalization.h
+END

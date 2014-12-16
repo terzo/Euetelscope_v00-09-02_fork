@@ -1,0 +1,629 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src
+END
+EUTelAPIXMCDetector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelAPIXMCDetector.cc
+END
+APIXFitter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/APIXFitter.cc
+END
+EUTelAPIXSparsePixel.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelAPIXSparsePixel.cc
+END
+EUTelTrackFitter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelTrackFitter.cc
+END
+EUTelFitHistograms.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelFitHistograms.cc
+END
+EUTelEUDRBReader.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelEUDRBReader.cc
+END
+ROOTProcessor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/ROOTProcessor.cc
+END
+EUTelPreAlignment.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelPreAlignment.cc
+END
+EUTelMimosa26Detector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelMimosa26Detector.cc
+END
+EUTelTrackStateImpl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelTrackStateImpl.cc
+END
+EUTelAutoPedestalNoiseProcessor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelAutoPedestalNoiseProcessor.cc
+END
+EUTelCalibrateEventProcessor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelCalibrateEventProcessor.cc
+END
+TDSPixelsChargeMap.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/TDSPixelsChargeMap.cc
+END
+EUTelROI.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelROI.cc
+END
+EUTelMatrixDecoder.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelMatrixDecoder.cc
+END
+EUTelUtilityPrintEventNumber.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelUtilityPrintEventNumber.cc
+END
+EUTelDUTHistograms.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelDUTHistograms.cc
+END
+EUTelTLUDetector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelTLUDetector.cc
+END
+EUTelFortisDetector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelFortisDetector.cc
+END
+EUTelUpdatePedestalNoiseProcessor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelUpdatePedestalNoiseProcessor.cc
+END
+EUTelAPIXSparseClusterImpl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelAPIXSparseClusterImpl.cc
+END
+EUTelReferenceHit.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelReferenceHit.cc
+END
+EUTelLCObjectTrackCandidate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelLCObjectTrackCandidate.cpp
+END
+EUTelNativeReader.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelNativeReader.cc
+END
+EUTelDafTrackerSystem.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelDafTrackerSystem.cc
+END
+EUTelRawDataSparsifier.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelRawDataSparsifier.cc
+END
+EUTelCorrelator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelCorrelator.cc
+END
+EUTelProcessorTrackingGBLTrackFit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelProcessorTrackingGBLTrackFit.cpp
+END
+EUTelFFClusterImpl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelFFClusterImpl.cc
+END
+EUTelAPIXHotPixelKiller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelAPIXHotPixelKiller.cc
+END
+EUTelTakiDetector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelTakiDetector.cc
+END
+EUTelMagneticFieldFinder.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelMagneticFieldFinder.cc
+END
+EUTelFilter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelFilter.cc
+END
+EUTelAPIXKalman.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelAPIXKalman.cc
+END
+CMSPixelClusteringProcessor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/CMSPixelClusteringProcessor.cc
+END
+EUTelBrickedClusterImpl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelBrickedClusterImpl.cc
+END
+EUTelAlignmentConstant.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelAlignmentConstant.cc
+END
+EUTelMimoTelReader.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelMimoTelReader.cc
+END
+EUTelSucimaImagerReader.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelSucimaImagerReader.cc
+END
+EUTelSparseData2Impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelSparseData2Impl.cc
+END
+EUTelHotPixel.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelHotPixel.cc
+END
+EUTelMAPSdigi.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelMAPSdigi.cc
+END
+EUTelHotPixelKiller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelHotPixelKiller.cc
+END
+EUTelPedestalNoiseProcessor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelPedestalNoiseProcessor.cc
+END
+EUTelMimoTelDetector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelMimoTelDetector.cc
+END
+EUTelDEPFETDetector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelDEPFETDetector.cc
+END
+EUTelMille.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelMille.cc
+END
+EUTelAPIXHistograms.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelAPIXHistograms.cc
+END
+EUTelPseudo1DHistogram.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelPseudo1DHistogram.cc
+END
+EUTelEventViewer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelEventViewer.cc
+END
+EUTelEventImpl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelEventImpl.cc
+END
+EUTelSparseCluster2Impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelSparseCluster2Impl.cc
+END
+EUTelSetupDescription.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelSetupDescription.cc
+END
+TDSPrecluster.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/TDSPrecluster.cc
+END
+EUTelDafAlign.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelDafAlign.cc
+END
+EUTelStrasMimoTelReader.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelStrasMimoTelReader.cc
+END
+EUTelSimpleSparsePixel.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelSimpleSparsePixel.cc
+END
+EUTelTimepixDetector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelTimepixDetector.cc
+END
+EUTELESCOPE.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTELESCOPE.cc
+END
+EUTelClusteringProcessor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelClusteringProcessor.cc
+END
+EUTelDafEigenFitter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelDafEigenFitter.cc
+END
+anyoption.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/anyoption.cc
+END
+EUTelGBLFitter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelGBLFitter.cc
+END
+EUTelDFFClusterImpl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelDFFClusterImpl.cc
+END
+EUTelProcessorTrackingExhaustiveTrackSearch.cc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelProcessorTrackingExhaustiveTrackSearch.cc
+END
+EUTelApplyAlignmentProcessor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelApplyAlignmentProcessor.cc
+END
+EUTelDafBase.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelDafBase.cc
+END
+EUTelAPIXTbTrackTuple.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelAPIXTbTrackTuple.cc
+END
+EUTelCalculateEtaProcessor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelCalculateEtaProcessor.cc
+END
+EUTelMimosa18Detector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelMimosa18Detector.cc
+END
+EUTelGeometryTelescopeGeoDescription.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelGeometryTelescopeGeoDescription.cpp
+END
+EUTelFitTuple.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelFitTuple.cc
+END
+EUTelCopyPedestalProcessor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelCopyPedestalProcessor.cc
+END
+EUTelFilterHitFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelFilterHitFilter.cpp
+END
+CMSPixelCalibrateEvent.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/CMSPixelCalibrateEvent.cc
+END
+EUTelRunHeaderImpl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelRunHeaderImpl.cc
+END
+EUTelExhaustiveTrackFinder.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelExhaustiveTrackFinder.cc
+END
+EUTelTimingDataImpl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelTimingDataImpl.cc
+END
+EUTelHitMaker.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelHitMaker.cc
+END
+EUTelXCorrelator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelXCorrelator.cc
+END
+EUTelAPIXApplyAlignment.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelAPIXApplyAlignment.cc
+END
+EUTelProcessorTrackingHelixTrackSearch.cc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelProcessorTrackingHelixTrackSearch.cc
+END
+EUTelDafFitter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelDafFitter.cc
+END
+EUTelAPIXTiming.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelAPIXTiming.cc
+END
+EUTelSparseDataImpl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelSparseDataImpl.cc
+END
+EUTelM26Timing.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelM26Timing.cc
+END
+EUTelHistogramMaker.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelHistogramMaker.cc
+END
+EUTelSparseClusterImpl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelSparseClusterImpl.cc
+END
+EUTelTrackImpl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelTrackImpl.cc
+END
+EUTelClusterFilter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelClusterFilter.cc
+END
+EUTelTiming.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelTiming.cc
+END
+EUTelHistogramManager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelHistogramManager.cc
+END
+EUTelLineFit.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelLineFit.cc
+END
+EUTelAlign.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelAlign.cc
+END
+EUTelBaseSparsePixel.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelBaseSparsePixel.cc
+END
+EUTelTrackFinder.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelTrackFinder.cc
+END
+EUTelTestFitter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelTestFitter.cc
+END
+EUTelOutputProcessor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelOutputProcessor.cc
+END
+EUTelEtaFunctionImpl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelEtaFunctionImpl.cc
+END
+EUTelAPIXClusteringProcessor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelAPIXClusteringProcessor.cc
+END
+EUTelUtility.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelUtility.cc
+END
+EUTelMimosa26Generator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelMimosa26Generator.cc
+END
+EUTelMultiLineFit.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelMultiLineFit.cc
+END
+EUTelClusterSeparationProcessor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/src/EUTelClusterSeparationProcessor.cc
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/docs/sphinxext/numpydoc
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/docs/sphinxext/numpydoc/__init__.py
+END
+phantom_import.py
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/docs/sphinxext/numpydoc/phantom_import.py
+END
+comment_eater.py
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/docs/sphinxext/numpydoc/comment_eater.py
+END
+docscrape.py
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/docs/sphinxext/numpydoc/docscrape.py
+END
+compiler_unparse.py
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/docs/sphinxext/numpydoc/compiler_unparse.py
+END
+docscrape_sphinx.py
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/docs/sphinxext/numpydoc/docscrape_sphinx.py
+END
+plot_directive.py
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/docs/sphinxext/numpydoc/plot_directive.py
+END
+traitsdoc.py
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/docs/sphinxext/numpydoc/traitsdoc.py
+END
+numpydoc.py
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/docs/sphinxext/numpydoc/numpydoc.py
+END

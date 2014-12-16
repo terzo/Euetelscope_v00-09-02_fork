@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/1195/tags/v01-00-00/vme/src
+END
+VMETest.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1195/tags/v01-00-00/vme/src/VMETest.cxx
+END
+Scaler.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1195/tags/v01-00-00/vme/src/Scaler.cxx
+END
+OldVMEInterface.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1195/tags/v01-00-00/vme/src/OldVMEInterface.cc
+END
+VMEReset.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1195/tags/v01-00-00/vme/src/VMEReset.cxx
+END
+VMEInterface.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1195/tags/v01-00-00/vme/src/VMEInterface.cc
+END
+vmelib.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1195/tags/v01-00-00/vme/src/vmelib.c
+END
+TSI148Interface.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1195/tags/v01-00-00/vme/src/TSI148Interface.cc
+END

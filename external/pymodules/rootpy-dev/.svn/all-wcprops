@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev
+END
+.mailmap
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/.mailmap
+END
+WHATSNEW.md
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/WHATSNEW.md
+END
+pyflakes.ignore
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/pyflakes.ignore
+END
+version.txt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/version.txt
+END
+README.rst
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/README.rst
+END
+pyflakes.exclude
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/pyflakes.exclude
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/COPYING
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/MANIFEST.in
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/Makefile
+END
+CONTRIBUTING.rst
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/CONTRIBUTING.rst
+END
+run-pyflakes
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/run-pyflakes
+END
+distribute_setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/distribute_setup.py
+END
+ghp-import
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/ghp-import
+END
+.travis.yml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/.travis.yml
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/setup.py
+END

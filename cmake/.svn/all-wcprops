@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/cmake
+END
+FindGBL.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/cmake/FindGBL.cmake
+END
+FindEigen.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/cmake/FindEigen.cmake
+END
+FindALLPIX.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/cmake/FindALLPIX.cmake
+END
+FindG4.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/cmake/FindG4.cmake
+END
+FindXERCESC.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/cmake/FindXERCESC.cmake
+END
+FindEUDAQ.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/cmake/FindEUDAQ.cmake
+END

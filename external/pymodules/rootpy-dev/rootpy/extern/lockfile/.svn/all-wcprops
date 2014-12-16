@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/extern/lockfile
+END
+linklockfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/extern/lockfile/linklockfile.py
+END
+sqlitelockfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/extern/lockfile/sqlitelockfile.py
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/extern/lockfile/LICENSE
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/extern/lockfile/__init__.py
+END
+mkdirlockfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/extern/lockfile/mkdirlockfile.py
+END
+pidlockfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/extern/lockfile/pidlockfile.py
+END

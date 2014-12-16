@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 68
+*.aux
+*.log
+*.toc
+*.glo
+*.ist
+*.bbl
+*.blg
+*.glg
+*.out
+*.fdb_latexmk
+
+END

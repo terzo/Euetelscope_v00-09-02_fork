@@ -1,0 +1,77 @@
+10
+
+dir
+1337
+http://eudaq.hepforge.org/svn/tags/v01-00-00/mimoroma
+http://eudaq.hepforge.org/svn
+
+
+
+2010-09-28T11:13:14.113440Z
+1005
+corrin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+26addba5-2b28-0410-9cd8-cddc305743c1
+
+Makefile
+file
+
+
+
+
+2013-12-12T17:17:31.140138Z
+af5de5583272e89f8bd77a2bbb95666c
+2010-09-28T11:13:14.113440Z
+1005
+corrin
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+361
+
+Release
+dir
+
+tmp
+dir
+
+include
+dir
+
+src
+dir
+
+V1495
+dir
+

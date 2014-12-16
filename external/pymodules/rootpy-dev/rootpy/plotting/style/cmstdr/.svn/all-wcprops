@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/plotting/style/cmstdr
+END
+README.rst
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/plotting/style/cmstdr/README.rst
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/plotting/style/cmstdr/__init__.py
+END
+test.py
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/plotting/style/cmstdr/test.py
+END
+style.py
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/plotting/style/cmstdr/style.py
+END
+labels.py
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/plotting/style/cmstdr/labels.py
+END

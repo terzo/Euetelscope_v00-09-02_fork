@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/batch
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/batch/__init__.py
+END
+supervisor.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/batch/supervisor.py
+END
+student.py
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/batch/student.py
+END

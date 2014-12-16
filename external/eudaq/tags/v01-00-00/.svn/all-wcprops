@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/1209/tags/v01-00-00
+END
+KILLRUN.eudaq
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1195/tags/v01-00-00/KILLRUN.eudaq
+END
+KILLRUN.eudaq_mac
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1195/tags/v01-00-00/KILLRUN.eudaq_mac
+END
+KILLRUN.datura
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1195/tags/v01-00-00/KILLRUN.datura
+END
+KILLRUN
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/1195/tags/v01-00-00/KILLRUN
+END
+STARTRUN.eudaq
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1195/tags/v01-00-00/STARTRUN.eudaq
+END
+STARTRUN.eudaq_mac
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1195/tags/v01-00-00/STARTRUN.eudaq_mac
+END
+STARTRUN.datura
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1195/tags/v01-00-00/STARTRUN.datura
+END
+STARTRUN
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1195/tags/v01-00-00/STARTRUN
+END
+Makefile.common
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1195/tags/v01-00-00/Makefile.common
+END
+STARTRUN.fortis
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1195/tags/v01-00-00/STARTRUN.fortis
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1195/tags/v01-00-00/Makefile
+END

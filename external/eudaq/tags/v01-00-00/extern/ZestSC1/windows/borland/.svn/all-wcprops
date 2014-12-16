@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1195/tags/v01-00-00/extern/ZestSC1/windows/borland
+END
+build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1195/tags/v01-00-00/extern/ZestSC1/windows/borland/build.bat
+END
+ZestSC1.dll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1195/tags/v01-00-00/extern/ZestSC1/windows/borland/ZestSC1.dll
+END
+ZestSC1.exp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1195/tags/v01-00-00/extern/ZestSC1/windows/borland/ZestSC1.exp
+END
+ZestSC1.def
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1195/tags/v01-00-00/extern/ZestSC1/windows/borland/ZestSC1.def
+END
+ZestSC1_coff.lib
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1195/tags/v01-00-00/extern/ZestSC1/windows/borland/ZestSC1_coff.lib
+END
+ZestSC1.tgz
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1195/tags/v01-00-00/extern/ZestSC1/windows/borland/ZestSC1.tgz
+END
+ZestSC1.lib
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1195/tags/v01-00-00/extern/ZestSC1/windows/borland/ZestSC1.lib
+END

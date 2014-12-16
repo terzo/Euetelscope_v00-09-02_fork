@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/memory
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/memory/__init__.py
+END
+showdeletion.py
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/memory/showdeletion.py
+END
+keepalive.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/memory/keepalive.py
+END
+monitordeletion.py
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/memory/monitordeletion.py
+END
+getownership.py
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/memory/getownership.py
+END

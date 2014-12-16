@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1203/tags/v01-00-00/extern/ZestSC1/linux
+END
+DataMac.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1195/tags/v01-00-00/extern/ZestSC1/linux/DataMac.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1195/tags/v01-00-00/extern/ZestSC1/linux/Makefile
+END
+Main.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1195/tags/v01-00-00/extern/ZestSC1/linux/Main.c
+END
+Config.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1195/tags/v01-00-00/extern/ZestSC1/linux/Config.c
+END
+Inc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1195/tags/v01-00-00/extern/ZestSC1/linux/Inc
+END
+Data.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1195/tags/v01-00-00/extern/ZestSC1/linux/Data.c
+END
+DataLinux.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1195/tags/v01-00-00/extern/ZestSC1/linux/DataLinux.c
+END
+Error.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1195/tags/v01-00-00/extern/ZestSC1/linux/Error.c
+END

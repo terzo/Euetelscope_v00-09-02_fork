@@ -1,0 +1,12 @@
+K 13
+svn:externals
+V 66
+CMSPixelDecoder https://github.com/simonspa/CMSPixelDecoder/trunk
+
+K 10
+svn:ignore
+V 17
+eudaq
+millepede2
+
+END

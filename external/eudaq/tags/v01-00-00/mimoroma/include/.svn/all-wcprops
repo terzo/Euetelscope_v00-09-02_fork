@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1195/tags/v01-00-00/mimoroma/include
+END
+daq_beam.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1195/tags/v01-00-00/mimoroma/include/daq_beam.h
+END
+console.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1195/tags/v01-00-00/mimoroma/include/console.h
+END
+CAENVMEtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1195/tags/v01-00-00/mimoroma/include/CAENVMEtypes.h
+END
+CAENVMElib.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1195/tags/v01-00-00/mimoroma/include/CAENVMElib.h
+END
+CAENVMEoslib.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1195/tags/v01-00-00/mimoroma/include/CAENVMEoslib.h
+END
+sis3100_vme_calls.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1195/tags/v01-00-00/mimoroma/include/sis3100_vme_calls.h
+END
+sis1100_var.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1195/tags/v01-00-00/mimoroma/include/sis1100_var.h
+END

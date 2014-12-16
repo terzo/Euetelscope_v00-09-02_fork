@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1195/tags/v01-00-00/bin/noise-study-scripts
+END
+script_OldPowerSupply.C
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1195/tags/v01-00-00/bin/noise-study-scripts/script_OldPowerSupply.C
+END
+threshold-scan-old-power-supply.C
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1195/tags/v01-00-00/bin/noise-study-scripts/threshold-scan-old-power-supply.C
+END
+script.C-bak
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1195/tags/v01-00-00/bin/noise-study-scripts/script.C-bak
+END
+script_CurrentPowerSupply.C
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1195/tags/v01-00-00/bin/noise-study-scripts/script_CurrentPowerSupply.C
+END
+threshold-scan-old-power-supply.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1195/tags/v01-00-00/bin/noise-study-scripts/threshold-scan-old-power-supply.png
+END
+threshold-scan-current-power-supply.C
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1195/tags/v01-00-00/bin/noise-study-scripts/threshold-scan-current-power-supply.C
+END
+threshold-scan-current-power-supply.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1195/tags/v01-00-00/bin/noise-study-scripts/threshold-scan-current-power-supply.png
+END
+threshold_Comaprison_with_2_powersupplies.png
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1195/tags/v01-00-00/bin/noise-study-scripts/threshold_Comaprison_with_2_powersupplies.png
+END

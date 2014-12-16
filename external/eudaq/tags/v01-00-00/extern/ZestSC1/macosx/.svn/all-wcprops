@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1195/tags/v01-00-00/extern/ZestSC1/macosx
+END
+Main.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1195/tags/v01-00-00/extern/ZestSC1/macosx/Main.c
+END
+Config.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1195/tags/v01-00-00/extern/ZestSC1/macosx/Config.c
+END
+Inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1195/tags/v01-00-00/extern/ZestSC1/macosx/Inc
+END
+Data.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1195/tags/v01-00-00/extern/ZestSC1/macosx/Data.c
+END
+Error.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1195/tags/v01-00-00/extern/ZestSC1/macosx/Error.c
+END
+DataMac.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1195/tags/v01-00-00/extern/ZestSC1/macosx/DataMac.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1195/tags/v01-00-00/extern/ZestSC1/macosx/Makefile
+END

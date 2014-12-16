@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/logger/tests
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/logger/tests/__init__.py
+END
+logcheck.py
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/logger/tests/logcheck.py
+END
+test_roothandler.py
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/logger/tests/test_roothandler.py
+END
+test_threading.py
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/public/eutelescope/!svn/ver/2950/Eutelescope/tags/v00-09-02/external/pymodules/rootpy-dev/rootpy/logger/tests/test_threading.py
+END
