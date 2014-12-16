@@ -1,2 +1,2 @@
-Fork or Euetelscope v00-09-02
+Fork of Euetelscope v00-09-02
 ==========================
